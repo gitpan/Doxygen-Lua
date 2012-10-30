@@ -1,6 +1,5 @@
 bin/lua2dox
 Changes
-example/.example.lua.swp
 example/Doxyfile
 example/example.lua
 ignore.txt
